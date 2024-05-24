@@ -25,7 +25,7 @@ To get started, clone the repository and install the required libraries:
 
 ```bash
 git clone https://github.com/msamwelmollel/dse_analysis_gpt-4o.git
-cd stock-market-analysis
+cd dse_analysis_gpt-4o
 pip install -r requirements.txt
 
 Ensure you have the necessary API keys set up in your environment:
