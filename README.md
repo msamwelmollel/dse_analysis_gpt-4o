@@ -24,6 +24,6 @@ In this repository, we explore how GPT-4o and Llama Index can be leveraged to an
 To get started, clone the repository and install the required libraries:
 
 ```bash
-git clone https://github.com/your-username/stock-market-analysis.git
+git clone https://github.com/msamwelmollel/dse_analysis_gpt-4o.git
 cd stock-market-analysis
 pip install -r requirements.txt
