@@ -50,3 +50,8 @@ This method directly processes PDFs using GPT-4o by setting the default LLM to G
 ## Results
 We compared the performance of both methods in extracting and analyzing bid and offer prices for CRDB bank shares. The results are visualized in scatter plots, showcasing the accuracy of each approach.
 
+## Conclusion
+While both methods show promising results, direct usage of GPT-4o with the SubQuestionQueryEngine demonstrated superior accuracy in our specific use cases. This highlights the importance of choosing the right tool and approach based on the complexity and nature of the data.
+
+## Contact
+For more complex analyses, predictions, and advanced insights, contact us at [Sartify LLC](https://www.sartify.com/contact-us), where we provide tailored AI-based solutions to meet your needs.
