@@ -40,3 +40,13 @@ The repository contains Jupyter notebooks and Python scripts demonstrating the u
 2. **Run Notebooks**: Open and run the provided Jupyter notebooks to see the analysis in action.
 3. **Generate Plots**: The scripts will generate scatter plots comparing the extracted data to actual market data.
 
+## Methods
+Method 1: LlamaParse with GPT-4o
+This method uses LlamaParse to extract information from complex PDFs, especially those with embedded tables and charts and processes the data using GPT-4o.
+
+Method 2: GPT-4o with SubQuestionQueryEngine
+This method directly processes PDFs using GPT-4o by setting the default LLM to GPT-4o, simplifying the workflow while maintaining high accuracy.
+
+## Results
+We compared the performance of both methods in extracting and analyzing bid and offer prices for CRDB bank shares. The results are visualized in scatter plots, showcasing the accuracy of each approach.
+
