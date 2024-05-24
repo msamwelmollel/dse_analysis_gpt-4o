@@ -27,3 +27,9 @@ To get started, clone the repository and install the required libraries:
 git clone https://github.com/msamwelmollel/dse_analysis_gpt-4o.git
 cd stock-market-analysis
 pip install -r requirements.txt
+
+Ensure you have the necessary API keys set up in your environment:
+```bash
+export OPENAI_API_KEY='your_openai_api_key'
+export LLAMA_CLOUD_API_KEY='your_llama_cloud_api_key'
+
