@@ -36,7 +36,7 @@ export LLAMA_CLOUD_API_KEY='your_llama_cloud_api_key'
 ## Usage
 The repository contains Jupyter notebooks and Python scripts demonstrating the use of GPT-4o and Llama Index for financial data analysis. Follow these steps to run the analysis:
 
-Load Data: Place your PDF files in the data/ directory.
-Run Notebooks: Open and run the provided Jupyter notebooks to see the analysis in action.
-Generate Plots: The scripts will generate scatter plots comparing the extracted data to actual market data.
+1. **Load Data**: Place your PDF files in the `data/` directory.
+2. **Run Notebooks**: Open and run the provided Jupyter notebooks to see the analysis in action.
+3. **Generate Plots**: The scripts will generate scatter plots comparing the extracted data to actual market data.
 
