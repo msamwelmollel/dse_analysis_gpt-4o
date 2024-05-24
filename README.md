@@ -41,10 +41,10 @@ The repository contains Jupyter notebooks and Python scripts demonstrating the u
 3. **Generate Plots**: The scripts will generate scatter plots comparing the extracted data to actual market data.
 
 ## Methods
-Method 1: LlamaParse with GPT-4o
+### Method 1: LlamaParse with GPT-4o
 This method uses LlamaParse to extract information from complex PDFs, especially those with embedded tables and charts and processes the data using GPT-4o.
 
-Method 2: GPT-4o with SubQuestionQueryEngine
+### Method 2: GPT-4o with SubQuestionQueryEngine
 This method directly processes PDFs using GPT-4o by setting the default LLM to GPT-4o, simplifying the workflow while maintaining high accuracy.
 
 ## Results
