@@ -29,7 +29,14 @@ cd stock-market-analysis
 pip install -r requirements.txt
 
 Ensure you have the necessary API keys set up in your environment:
-```bash
 export OPENAI_API_KEY='your_openai_api_key'
 export LLAMA_CLOUD_API_KEY='your_llama_cloud_api_key'
+```
+
+## Usage
+The repository contains Jupyter notebooks and Python scripts demonstrating the use of GPT-4o and Llama Index for financial data analysis. Follow these steps to run the analysis:
+
+Load Data: Place your PDF files in the data/ directory.
+Run Notebooks: Open and run the provided Jupyter notebooks to see the analysis in action.
+Generate Plots: The scripts will generate scatter plots comparing the extracted data to actual market data.
 
